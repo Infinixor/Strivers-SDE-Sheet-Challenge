@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 class Solution:
     def __init__(self, start, end):
         self.start = start

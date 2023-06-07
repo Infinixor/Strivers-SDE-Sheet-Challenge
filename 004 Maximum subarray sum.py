@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def maxSubarraySum(arr, n):
     max_sum = 0
     current_sum = 0

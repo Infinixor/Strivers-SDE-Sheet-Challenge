@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def printPascal(n: int):
     triangle = []
     for line in range(0, n):

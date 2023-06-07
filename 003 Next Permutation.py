@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def nextPermutation(permutation, n):
     n = len(permutation)
 

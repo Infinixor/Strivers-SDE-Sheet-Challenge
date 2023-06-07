@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def ninjaAndSortedArrays(arr1, arr2, m, n):
     i = m - 1
     j = n - 1

@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def findDuplicate(nums, n):
     tortoise, hare = nums[0], nums[nums[0]]
     while tortoise != hare:

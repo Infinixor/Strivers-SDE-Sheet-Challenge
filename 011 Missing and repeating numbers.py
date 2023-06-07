@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def missingAndRepeating(arr, n):
     visited = {}
     res = []

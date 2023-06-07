@@ -1,3 +1,7 @@
+"""
+@author:  Infinixor 
+
+"""
 def maximumProfit(prices):
     maxprofit = 0
     minele = float("inf")
